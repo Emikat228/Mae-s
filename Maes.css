@@ -144,7 +144,7 @@ button.button, button.button:hover {
 
 h1 {
 	color: #FF0066;
-	font-size: 90px;
+	font-size: 40px;
 	text-align: center;
         font-family: 'Covered By Your Grace', cursive
 }
@@ -607,11 +607,11 @@ a[href$="480983"]>div.cave-grid>img {
 }
 
 a[href$="lionoverview.php?id=539154"]>div.cave-grid>img /* Pride Overview */ {
-	content: url('https://i.ibb.co/8DyBLB2T/057c205b996dbe6ac7bab28702d7cdbd-1.jpg') !important
+	content: url('https://i.ibb.co/fVkY8fww/sketch-1753133633049-2.png') !important
 }
 
 a[href$="unsorted.php?id=539154"]>div.cave-grid>img /* Unsorted */ {
-	content: url('https://i.ibb.co/7JjTLtDr/59b8c8622c076c5dc7bac0dd591c712c-ezgif-com-resize.gif') !important
+	content: url('https://i.ibb.co/nhxwG2M/ezgif-com-crop.gif') !important
 }
 
 img[src$="caveunused.jpg"] {
@@ -619,10 +619,10 @@ content: url('https://i.ibb.co/RkhtJ74v/109085-ezgif-com-crop.gif') !important;
 }
 /*STOPPING HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 img[src$="default.png"] {
-content: url("https://static.lioden.com/images/dynamic/backgrounds/swirlingsky.png"); }
+content: url("https://i.ibb.co/KzBq9Rm7/Mae-Cave-Bg.png"); }
 
 .mound-grid img /* Mound(s) */ {
-	background: url("xxxxxxxxx");
+	background: url("https://i.ibb.co/sv9hn6zP/ezgif-com-resize.gif");
 	width: 0;
 	height: 0;
 	padding-top: 80px;
@@ -647,11 +647,11 @@ content: url("https://static.lioden.com/images/dynamic/backgrounds/swirlingsky.p
 		}
 	}
 img[src$="icon-beetle-gold.png"] {
-content: url("xxxxxxxxx") !important;
+content: url("https://i.ibb.co/FLmm9RFL/Mae-Pink-Heart.png") !important;
 width: 20px !important;
 }
 
 img[src$="icon-beetle-silver.png"] {
-content: url("xxxxxxxxx") !important;
+content: url("https://i.ibb.co/mVgyX8Q4/Mae-Black-Heart.png") !important;
 width: 20px !important;
 }
