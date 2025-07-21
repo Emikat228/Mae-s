@@ -288,7 +288,7 @@ color: black;
 /* PANEL BACKGROUND COLOR */
 
 .table {
-	background: rgba(5, 91, 166, 0.5);
+	background: rgba(0, 0 , 0, 0.5);
 	border: none !important;
 	border-collapse: separate;
 	border-radius: 0px
@@ -622,7 +622,7 @@ img[src$="default.png"] {
 content: url("https://static.lioden.com/images/dynamic/backgrounds/swirlingsky.png"); }
 
 .mound-grid img /* Mound(s) */ {
-	background: url("https://i.ibb.co/nqpzwpbM/space10-ezgif-com-resize-1.webp");
+	background: url("xxxxxxxxx");
 	width: 0;
 	height: 0;
 	padding-top: 80px;
@@ -647,11 +647,11 @@ content: url("https://static.lioden.com/images/dynamic/backgrounds/swirlingsky.p
 		}
 	}
 img[src$="icon-beetle-gold.png"] {
-content: url("https://i.ibb.co/7JR0FXwm/Gold-Stars.png") !important;
+content: url("xxxxxxxxx") !important;
 width: 20px !important;
 }
 
 img[src$="icon-beetle-silver.png"] {
-content: url("https://i.ibb.co/v6pnM24S/Silver-Stars.png") !important;
+content: url("xxxxxxxxx") !important;
 width: 20px !important;
 }
