@@ -207,7 +207,7 @@ h3 {
 .s-chat-message:nth-child(even) /* Even Numbered Messages */ {
 	background: rgba(0, 0 , 0, 0.5) !important;
         color: #FFFFFF !important;
-	border: 0 ridge !important;
+	border: none !important;
 }
 
 .s-chat-message:nth-child(odd) /* Odd Numbered Messages */ {
@@ -548,7 +548,7 @@ a:hover {
 /* BACKGROUND */
 
 ::-webkit-scrollbar-track {
-	background: #ffffff
+	background: #FF0066
 }
 
 
