@@ -367,7 +367,7 @@ div.left {
 /* Block of color behind "Territory Description, Player Name, Avatar URL" etc. */
 
 .table .left {
-	background: #FF0066;
+	background: rgba(0, 0 , 0, 0.5);
         border-radius: 10px
 }
 
